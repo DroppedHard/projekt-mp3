@@ -13,7 +13,7 @@ Po tym wszystkim w przeglądarce powinien uruchomić się program.
 Nowe foldery z albumami należy dodawać do folderu static/mp3.<br>
 Nowy album powinien zawierać okładkę z nazwą <code>okladka.jpg</code> i utwory z rozszerzeniem <code>.mp3</code><br>
 (przykład umieszczony w folderze - <b>obrazek i pliki mp3 są puste więc nie powinny działać</b>)<br>
-Program nie posiada obsługi błędów (tylko szkolny projekt).<br>
+Program nie obsługuje wszystkich błędów (tylko szkolny projekt).<br>
 Jest obsługa playlisty, która jest zapisywana w bazie danych. Z playlisty nie da się usunąć utworów.<br>
 Można przeskakiwać po utworze za pomocą przesuwania progres bara na środku.<br>
 Aby przełączać się między albumami należy kliknąć w okładkę albumu po lewej, a potem wybieramy utwór poprzez naciśnięcie jego nazwy.<br>
