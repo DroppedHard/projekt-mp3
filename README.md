@@ -1,5 +1,5 @@
 # projekt-mp3
-Odtwarzacz albumów z plikami mp3. <b>Zalecam uruchamianie programu na firefoxie albo Microsoft Edge (maksymalny czas utworu działa bez większych problemów)</b><br>
+Odtwarzacz albumów z plikami mp3. <b>Zalecam uruchamianie programu na firefoxie albo Microsoft Edge (maksymalny czas utworu wyświetla się bez problemów)</b><br>
 # Pierwsze uruchomienie:
 Aby program mógł działać należy zainstalować node.js -> https://nodejs.org/en/download/ <br>
 <i>(warto sprawdzić poprawność instalacji poprzez wpisanie w konsoli polecenia <code>node -v</code>)</i><br>
