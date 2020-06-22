@@ -19,3 +19,5 @@ Można przeskakiwać po utworze za pomocą przesuwania progres bara na środku.<
 Aby przełączać się między albumami należy kliknąć w okładkę albumu po lewej, a potem wybieramy utwór poprzez naciśnięcie jego nazwy.<br>
 Przyciski następnego utworu i poprzedniego działają zależnie od ostatnio wybranego utworu (jeśli wybrano utwór z albumu, to przeskakujemy po utworach w albumie. Jeśli wybrano utwór z playlisty, to przeskakujemy między utworami z playlisty).<br>
 Aby dodać utwór do playlisty należy nacisnąć ikonkę <b>+</b> przy nazwie.<br>
+# rozwój
+Projekt uznaję za zamkięty.
