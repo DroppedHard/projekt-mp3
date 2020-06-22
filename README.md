@@ -10,7 +10,7 @@ Po uzyskaniu odpowiedzi "serwer startuje na porcie 3000" należy uruchomić prze
 <code>localhost:3000</code> albo <code>127.0.0.1:3000</code><br>
 Po tym wszystkim w przeglądarce powinien uruchomić się program.
 # O programie
-Program jest projektem szkolnym, przez co nie obsługuje błędy. Nowe foldery z albumami należy dodawać do folderu static/mp3.<br>
+Nowe foldery z albumami należy dodawać do folderu static/mp3.<br>
 Nowy album powinien zawierać okładkę z nazwą <code>okladka.jpg</code> i utwory z rozszerzeniem <code>.mp3</code><br>
 (przykład umieszczony w folderze - <b>obrazek i pliki mp3 są puste więc nie powinny działać</b>)<br>
 Program nie posiada obsługi błędów (tylko szkolny projekt).<br>
